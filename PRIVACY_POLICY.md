@@ -7,7 +7,7 @@
 
 Daily Clear is a daily block puzzle: place every piece so the board ends up empty. Your progress is saved on your phone only. There are no accounts, and no servers of ours receive your data.
 
-The game is free. Its income is an occasional ad from Google AdMob, shown between puzzles. Google's ad software collects some device data to show and measure ads, as described below.
+The game is free. Its income is an occasional ad from Google AdMob, shown between puzzles, and one optional one-time purchase that removes ads for good. Google's ad software collects some device data to show and measure ads, as described below.
 
 ## Your game data stays on your device
 
@@ -18,6 +18,7 @@ Daily Clear saves the following on your phone, so you can continue where you lef
 - **A puzzle in progress**: the pieces you have placed so far and your undo count
 - **Practice**: how many practice puzzles you have solved at each level, and which one comes next
 - **Settings**: sound and vibration on or off, dark or light theme, and whether you have seen the "How to play" lesson
+- **Ads removed**: a note that you have bought "Remove ads", so it keeps working with no connection
 
 None of this is uploaded or sent to us.
 
@@ -53,6 +54,18 @@ Ads need an internet connection. Playing the game never does.
 
 **Your choices**: you can reset or delete your advertising ID, or opt out of personalised ads, in your phone's settings (Settings → Google → Ads, or Settings → Privacy → Ads, depending on your phone).
 
+## Removing ads (one-time purchase)
+
+You can pay once to remove ads for good. The purchase is optional and nothing else in the game is sold.
+
+- **Who handles the payment:** Google Play. We never receive or see your card details, billing address or any other payment information.
+- **What we can see:** nothing on any server of ours. Inside the game, on your phone, Google Play tells the game whether "Remove ads" is owned.
+- **Your Google account:** Google Play records the purchase against your Google account, so **Restore purchase** in Settings brings it back on a new or reset phone signed in to the same account.
+- **Once ads are removed:** the game stops loading Google's ads software for you and requests no ads.
+- **Refunds:** are handled by Google Play under its refund policy. If a purchase is refunded, ads return.
+
+Google processes purchases under its own privacy policy: https://policies.google.com/privacy
+
 ## Sharing
 
 When you tap **Share** after a daily puzzle, the game opens your phone's share menu with a short text: the puzzle number, your result, your streak and a picture of the starting board, which is the same for every player. It never includes your moves or the solution. If no share menu is available, the text is copied to your clipboard instead. Nothing is shared unless you choose an app and send it.
@@ -63,6 +76,7 @@ When you tap **Share** after a daily puzzle, the game opens your phone's share m
 - **Advertising ID and ad services**: used by Google's ads SDK, as described above
 - **Vibrate**: for the optional tap feedback, which you can switch off in Settings
 - **Wake lock and foreground service**: added by Google's ads SDK and its supporting libraries
+- **Billing**: for the optional "Remove ads" purchase through Google Play
 
 None of these shows a permission prompt. The game does not use your location, contacts, camera, microphone, files or notifications.
 
@@ -72,7 +86,7 @@ The game is not directed at children under 13, and we do not knowingly collect p
 
 ## Your rights
 
-We do not hold personal data about you on any server, so there is nothing for us to access, correct or delete. Your on-device data is under your control, as described above. For data processed by Google for advertising, see Google's privacy policy and controls.
+We do not hold personal data about you on any server, so there is nothing for us to access, correct or delete. Your on-device data is under your control, as described above. For data processed by Google for advertising or purchases, see Google's privacy policy and controls.
 
 For users in the EU/UK (GDPR) and California (CCPA): we do not sell personal information. Advertising data is processed by Google as described above.
 
