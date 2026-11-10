@@ -33,18 +33,22 @@ You may NOT:
 - **Our property:** the App name, logo, puzzles and artwork.
 - **Your rights:** you retain no ownership rights to the App itself.
 
-## 6. Free Game and Ads
+## 6. Free Game, Ads and One Optional Purchase
 
-- **Everything is free:** the daily puzzle, all practice levels, streaks and statistics are included. There are no in-app purchases.
+- **Everything is free:** the daily puzzle, all practice levels, streaks and statistics are included. Nothing in the game is locked behind a payment.
 - **Ads:** the App's income is an occasional full-screen ad provided by Google AdMob. An ad can appear only after you have solved a puzzle and tapped to move on, never during a puzzle, no more than once every three minutes, and not until you have finished more than two puzzles.
 - **Never as a penalty:** no ad is shown because you gave up, watched a solution or left a puzzle unfinished, and no ad offers a second chance or an advantage.
 - **Failed ads:** if an ad cannot be shown, for example with no internet connection, the App simply carries on.
+- **Remove ads:** the App offers one optional, one-time in-app purchase, "Remove ads", which permanently stops ads for the Google account that bought it. It is not a subscription and is never charged again. It changes nothing else in the game.
+- **Payment and refunds:** the purchase is sold and processed by Google Play, at the price Google Play shows you before you confirm. Refunds are handled by Google Play under its refund policy; if a purchase is refunded, ads return.
+- **Restoring:** use **Restore purchase** in Settings on a new or reset device signed in to the same Google account. We hold no record of purchases ourselves and cannot restore them for you.
 
 ## 7. Streaks, Results and Progress
 
 - **Streaks, results and statistics**: These are game achievements with no real-world or cash value
 - **Solvable puzzles**: Every puzzle is built so that at least one solution exists. Using "Show solution" records that day as not solved and ends your streak
 - **Progress storage**: Your progress is stored on your device only. We hold no copy and cannot restore it ourselves; your device's own backup (for example Android backup) may restore it on a new or reset device
+- **Remove ads**: A "Remove ads" purchase has no cash value and cannot be transferred to another account
 - **Changes to puzzles**: We may adjust puzzle difficulty, the pieces used and how puzzles are generated in updates. An update may restart a puzzle you had in progress
 
 ## 8. Disclaimers
@@ -66,7 +70,7 @@ We do not guarantee that the App will be:
 We shall not be liable for:
 - Any indirect, incidental, or consequential damages
 - Loss of game progress, results, or streaks
-- Any issues arising from third-party ads or services
+- Any issues arising from third-party ads, payment or store services
 - Device damage (use responsibly!)
 
 ## 10. Updates and Modifications
@@ -83,7 +87,7 @@ We reserve the right to:
 The App is not directed at children under 13. However:
 - Anyone under 13 should not use the App without a parent's or guardian's permission
 - Parents are responsible for monitoring children's use
-- The App can show ads served by Google AdMob
+- The App can show ads served by Google AdMob and offers an optional purchase; purchases by children need a parent's or guardian's approval
 
 ## 12. Account Termination
 
@@ -133,7 +137,7 @@ We may update these Terms. Continued use after changes constitutes acceptance of
 By using Daily Clear, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. You also acknowledge that:
 - Streaks, results and statistics have no real-world value
 - Your progress is stored only on your device
-- The App is free and can show ads provided by Google AdMob
+- The App is free, can show ads provided by Google AdMob, and offers one optional one-time purchase to remove them
 
 ---
 
