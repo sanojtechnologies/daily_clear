@@ -1,6 +1,6 @@
 # Terms of Service for Daily Clear
 
-**Last Updated**: November 10, 2026  
+**Last Updated**: November 13, 2026  
 **Published by**: Sanoj Technologies
 
 ## 1. Acceptance of Terms
@@ -36,7 +36,7 @@ You may NOT:
 ## 6. Free Game, Ads and One Optional Purchase
 
 - **Everything is free:** the daily puzzle, all practice levels, streaks and statistics are included. Nothing in the game is locked behind a payment.
-- **Ads:** the App's income is an occasional full-screen ad provided by Google AdMob. An ad can appear only after you have solved a puzzle and tapped to move on, never during a puzzle, no more than once every three minutes, and not until you have finished more than two puzzles.
+- **Ads:** the App's income is an occasional full-screen ad provided by Google AdMob. An ad can appear only after you have solved a puzzle and tapped to move on, never during a puzzle, and no more than once every three minutes. After the daily puzzle there is at most one ad a day, shown as you leave the result of a daily puzzle you solved, and none on the first three days you play. After practice puzzles there is none in the first three minutes after you open the App, and none until you have finished more than two puzzles.
 - **Never as a penalty:** no ad is shown because you gave up, watched a solution or left a puzzle unfinished, and no ad offers a second chance or an advantage.
 - **Failed ads:** if an ad cannot be shown, for example with no internet connection, the App simply carries on.
 - **Remove ads:** the App offers one optional, one-time in-app purchase, "Remove ads", which permanently stops ads for the Google account that bought it. It is not a subscription and is never charged again. It changes nothing else in the game.
@@ -46,7 +46,7 @@ You may NOT:
 ## 7. Streaks, Results and Progress
 
 - **Streaks, results and statistics**: These are game achievements with no real-world or cash value
-- **Solvable puzzles**: Every puzzle is built so that at least one solution exists. Using "Show solution" records that day as not solved and ends your streak
+- **Solvable puzzles**: Every puzzle is built so that at least one solution exists. Using "Show solution" records that day as not solved; the day still counts towards your streak
 - **Progress storage**: Your progress is stored on your device only. We hold no copy and cannot restore it ourselves; your device's own backup (for example Android backup) may restore it on a new or reset device
 - **Remove ads**: A "Remove ads" purchase has no cash value and cannot be transferred to another account
 - **Changes to puzzles**: We may adjust puzzle difficulty, the pieces used and how puzzles are generated in updates. An update may restart a puzzle you had in progress
