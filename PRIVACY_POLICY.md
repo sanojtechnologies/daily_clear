@@ -1,6 +1,6 @@
 # Privacy Policy for Daily Clear
 
-**Last Updated**: November 10, 2026
+**Last Updated**: November 13, 2026
 **Published by**: Sanoj Technologies
 
 ## Summary
@@ -19,6 +19,7 @@ Daily Clear saves the following on your phone, so you can continue where you lef
 - **Practice**: how many practice puzzles you have solved at each level, and which one comes next
 - **Settings**: sound and vibration on or off, dark or light theme, and whether you have seen the "How to play" lesson
 - **Ads removed**: a note that you have bought "Remove ads", so it keeps working with no connection
+- **Last ad**: when the last ad was shown, and the day of the last ad after a daily puzzle, so the limits on ads hold after you close the game
 
 None of this is uploaded or sent to us.
 
@@ -31,8 +32,9 @@ None of this is uploaded or sent to us.
 The game shows an occasional full-screen ad served by Google AdMob, a Google service. The rules it follows:
 
 - An ad can appear only after you have solved a puzzle and tapped to move on, never while you are playing
-- No more than one ad every three minutes, and none in the first three minutes after you open the game
-- No ad until you have finished more than two puzzles
+- After the daily puzzle: at most one ad a day, shown as you leave the result of a daily puzzle you solved, and none on the first three days you play
+- After practice puzzles: none in the first three minutes after you open the game, and none until you have finished more than two puzzles
+- No more than one ad every three minutes, whichever kind it is
 - Never after you give up, watch a solution or leave a puzzle unfinished
 
 If no ad is ready, for example with no internet connection, the game simply carries on.
@@ -68,7 +70,7 @@ Google processes purchases under its own privacy policy: https://policies.google
 
 ## Sharing
 
-When you tap **Share** after a daily puzzle, the game opens your phone's share menu with a short text: the puzzle number, your result, your streak and a picture of the starting board, which is the same for every player. It never includes your moves or the solution. If no share menu is available, the text is copied to your clipboard instead. Nothing is shared unless you choose an app and send it.
+When you tap **Share** after a daily puzzle, the game opens your phone's share menu with a short text: the puzzle number, your result with its stars, your streak, a picture of the starting board, which is the same for every player, and a link to the game's page on Google Play. It never includes your moves or the solution. If no share menu is available, the text is copied to your clipboard instead. Nothing is shared unless you choose an app and send it.
 
 ## Permissions
 
